@@ -1,0 +1,7 @@
+.quotes__table {
+  display: grid;
+  grid-template-columns: 17.87375415282392vw 16.94352159468439vw 15.5890365448505vw 17.27574750830565vw;
+  column-gap: 7.097563676633444vw;
+  width: 100%;
+  margin: 0;
+}
