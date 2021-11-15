@@ -24,3 +24,11 @@
 /* footer */
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__title/footer__title.css);
+/* quotes */
+@import url(../blocks/quotes/quotes.css);
+@import url(../blocks/quotes/__subtitle/quotes__subtitle.css);
+@import url(../blocks/quotes/__table/quotes__table.css);
+@import url(../blocks/quotes/__title/quotes__title.css);
+@import url(../blocks/quotes/__item/quotes__item.css);
+@import url(../blocks/quotes/__author/quotes__author.css);
+@import url(../blocks/quotes/__quote/quotes__quote.css);
