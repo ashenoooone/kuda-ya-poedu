@@ -1,3 +1,5 @@
 .places {
-    
+    /* display: grid;
+    grid-template: max-content max-content / 100%; */
+    background-color: #f2f2f2;
 }
