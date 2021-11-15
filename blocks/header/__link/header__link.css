@@ -1,0 +1,7 @@
+.header__link {
+    margin: 0 2.790697674418605vw 0 0;
+}
+
+.header__link:last-child {
+    margin: 0;
+}
