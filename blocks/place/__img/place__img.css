@@ -1,6 +1,5 @@
 .place__img {
-    width: 50.03322259136213vw;
-    height: 41.72757475083056vw;
-    background-size: cover;
-    grid-area: img;
+  width: 100%;
+  background-size: cover;
+  grid-area: img;
 }

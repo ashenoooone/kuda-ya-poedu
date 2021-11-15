@@ -1,6 +1,6 @@
 .place__article {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    grid-area: article;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  grid-area: article;
 }
