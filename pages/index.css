@@ -1,2 +1,9 @@
+/* normilize */
+@import url(../vendor/normalize.css);
 /* fonts */
 @import url(../vendor/fonts/fonts.css);
+/* page */
+@import url(../blocks/page/page.css);
+/* footer */
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__title/footer__title.css);
