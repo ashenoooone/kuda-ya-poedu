@@ -5,7 +5,7 @@
   line-height: 1.4;
 }
 
-@media screen and (max-width: 1920px) {
+@media screen and (min-width: 1920px) {
     .quotes__quote {
         font-size: 20px;
     }

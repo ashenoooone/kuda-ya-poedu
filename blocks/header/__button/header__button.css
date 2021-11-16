@@ -9,7 +9,7 @@
     opacity: 45%;
 }
 
-@media screen and (max-width: 1920px) {
+@media screen and (min-width: 1920px) {
     .header__button {
         font-size: 20px;
     }
