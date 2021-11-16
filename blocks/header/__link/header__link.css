@@ -1,5 +1,7 @@
 .header__link {
     margin: 0 2.790697674418605vw 0 0;
+    color: black;
+    text-decoration: none;
     transition: opacyti 0.2 linear;
 }
 
