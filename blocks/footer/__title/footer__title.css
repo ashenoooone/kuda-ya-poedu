@@ -1,5 +1,11 @@
 .footer__title {
-  font-size: 30px;
+  font-size: calc(40px + 10 * ((100vw - 1440px) / (1920 - 1440px)));
   font-weight: bold;
   margin: 0;
+}
+
+@media screen and (min-width: 1920px) {
+  .footer__title {
+    font-size: 50px;
+  }
 }

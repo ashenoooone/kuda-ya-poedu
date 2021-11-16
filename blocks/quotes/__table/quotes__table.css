@@ -6,3 +6,10 @@
   column-gap: 5.049833887043189vw;
   margin: 0;
 }
+
+@media screen and (min-width: 1920px) {
+  .quotes__table{
+    grid-template-columns: 354px 352px 353px 332px;
+    column-gap: 97px;
+  }
+}
