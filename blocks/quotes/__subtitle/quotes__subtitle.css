@@ -8,5 +8,7 @@
 @media screen and (min-width: 1920px) {
     .quotes__subtitle {
         font-size: 46px;
+        margin: 0 0 186px 0;
+        width: 689px;
     }
 }

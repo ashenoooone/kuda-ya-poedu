@@ -6,3 +6,9 @@
   justify-content: center;
   height: 48.43853820598007vw;
 }
+
+@media screen and (min-widht: 1920px) {
+  .footer {
+    height: 930px;
+  }
+}
