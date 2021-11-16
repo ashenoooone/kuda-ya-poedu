@@ -1,5 +1,11 @@
 .quotes__author {
   margin: 0 0 37px 0;
-  font-size: 18px;
+  font-size: calc(18px + 5 * ((100vw - 1440px) / (1920 - 1440)));
   text-transform: uppercase;
+}
+
+@media screen and (min-width: 1920px) {
+    .quotes__author {
+        font-size: 23px;
+    }
 }

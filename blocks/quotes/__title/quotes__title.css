@@ -1,6 +1,13 @@
 .quotes__title {
   color: #fecaa3;
-  font-size: 18px;
+  font-size: calc(14px + 4 * ((100vw - 1440px) / (1920 - 1440)));
   text-transform: uppercase;
   margin: 0 0 2.92358803986711vw 0;
+}
+
+@media screen and (min-width: 1920px) {
+  .quotes__title {
+    font-size: 18px;
+    margin: 0 0 56px 0;
+  }
 }

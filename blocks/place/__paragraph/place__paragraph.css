@@ -1,12 +1,13 @@
 .place__paragraph {
   margin: 0 0 1.993355481727575vw 0;
-  font-size: 16px;
+  font-size: calc(16px + 6 * ((100vw - 1440px) / (1920 - 1440)));
 }
 .place__paragraph:last-child {
   margin: 0;
 }
 @media screen and (min-width: 1920px) {
-  .place__paragraph {
-    margin: 0 0 38px 0;
-  }
+    .place__paragraph {
+      font-size: 22px;
+      margin: 0 0 38px 0;
+    }
 }
