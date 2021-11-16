@@ -1,8 +1,14 @@
 .header__title {
-    width: 7.242524916943522vw;
-    margin: 0;
-    padding: 20.79734219269103vw 0 2.92358803986711vw;
-    text-transform: uppercase;
-    font-size: 0.9302325581395349vw;
-    color: #fecda7;
+  width: 7.242524916943522vw;
+  margin: 0;
+  padding: 20.79734219269103vw 0 2.92358803986711vw;
+  text-transform: uppercase;
+  font-size: 0.9302325581395349vw;
+  color: #fecda7;
+}
+@media screen and (min-width: 1920px) {
+  .header__title {
+    width: 139px;
+    padding: 399px 0 56px;
+  }
 }

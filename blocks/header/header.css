@@ -4,3 +4,8 @@
   position: relative;
   padding: 4.053156146179402vw 5.315614617940199vw 19.33554817275748vw;
 }
+@media screen and (min-width: 1920px) {
+  .header {
+    padding: 77px 102px 371px;
+  }
+}
