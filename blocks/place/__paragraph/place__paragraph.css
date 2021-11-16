@@ -5,3 +5,9 @@
 .place__paragraph:last-child {
   margin: 0;
 }
+
+@media screen and (max-width: 1920px) {
+    .place__paragraph {
+        font-size: 22px;
+    }
+}

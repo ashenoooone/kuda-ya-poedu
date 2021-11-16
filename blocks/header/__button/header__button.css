@@ -2,9 +2,15 @@
     margin: 0;
     color: black;
     text-decoration: none;
-    transition: opacyti 0.2 linear;
+    transition: opacity 0.2 linear;
 }
 
 .header__button:hover{
     opacity: 45%;
+}
+
+@media screen and (max-width: 1920px) {
+    .header__button {
+        font-size: 20px;
+    }
 }
