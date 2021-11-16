@@ -1,12 +1,12 @@
-.header__subtitle {
-    width: 40vw;
-    margin: 0;
-    font-size: calc(36px + 4 * ((100vw - 1440px) / (1920 - 1440)));
-    font-weight: bold;
+.header__subtitle {    
+  width: 40vw;
+  margin: 0;
+  font-size: calc(36px + 4 * ((100vw - 1440px) / (1920 - 1440)));
+  font-weight: bold;
 }
-
 @media screen and (min-width: 1920px) {
     .header__subtitle {
         font-size: 40px;
+         width: 602px;
     }
 }

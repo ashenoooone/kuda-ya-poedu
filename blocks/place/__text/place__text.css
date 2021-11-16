@@ -3,3 +3,8 @@
   color: black;
   font-weight: 490;
 }
+@media screen and (min-width: 1920px) {
+  .place__text {
+    width: 537px;
+  }
+}

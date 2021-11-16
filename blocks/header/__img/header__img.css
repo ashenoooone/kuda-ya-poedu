@@ -1,7 +1,15 @@
 .header__img {
-   width: 27.77408637873754vw;
-   height: 27.77408637873754vw;
-   position: absolute;
-   top: 11.69435215946844vw;
-   right: 12.29235880398671vw;
+  width: 27.77408637873754vw;
+  height: 27.77408637873754vw;
+  position: absolute;
+  top: 11.69435215946844vw;
+  right: 12.29235880398671vw;
+}
+@media screen and (min-width: 1920px) {
+  .header__img {
+    width: 533px;
+    height: 533px;
+    top: 224px;
+    right: 236px;
+  }
 }

@@ -4,3 +4,8 @@
   justify-content: space-between;
   padding: 5.315614617940199vw 0 6.777408637873754vw 5.514950166112957vw;
 }
+@media screen and (min-width: 1920px) {
+  .place__article {
+    padding: 102px 0 130px 105px;
+  }
+}
