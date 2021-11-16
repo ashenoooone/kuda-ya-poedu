@@ -1,7 +1,7 @@
 .header__subtitle {
     width: 40vw;
     margin: 0;
-    font-size: 36px;
+    font-size: calc(36px + 4 * ((100vw - 1440px) / (1920 - 1440)));
     font-weight: bold;
 }
 

@@ -1,6 +1,6 @@
 .place__title {
   font-weight: bold;
-  font-size: 2.524916943521595vw;
+  font-size: calc(38px + 8 * ((100vw - 1440px) / (1920 - 1440)));
   margin: 0;
 }
 

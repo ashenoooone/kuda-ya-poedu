@@ -1,5 +1,5 @@
 .quotes__subtitle {
-  font-size: 43px;
+  font-size: calc(43px + 3 * ((100vw - 1440px) / (1920 - 1440)));
   font-weight: bold;
   margin: 0 0 9.700996677740864vw 0;
   width: 35.89700996677741vw;
