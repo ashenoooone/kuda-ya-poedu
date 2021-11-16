@@ -1,7 +1,8 @@
 .quotes__table {
   display: grid;
+  justify-content: space-between;
+  grid-template-columns: 18.47176079734219vw 18.33887043189369vw 18.40531561461794vw 17.3421926910299vw;
   width: 100%;
-  grid-template-columns: 17.87375415282392vw 16.94352159468439vw 14.3890365448505vw 17.3421926910299vw;
+  column-gap: 5.049833887043189vw;
   margin: 0;
-  column-gap: 7.043189368770764vw;
 }
