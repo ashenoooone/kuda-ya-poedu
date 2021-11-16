@@ -4,3 +4,9 @@
   margin: 0;
   width: 35.89700996677741vw;
 }
+
+@media screen and (max-width: 1920px) {
+    .quotes__subtitle {
+        font-size: 46px;
+    }
+}

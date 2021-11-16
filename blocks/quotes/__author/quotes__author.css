@@ -3,3 +3,9 @@
   font-size: 18px;
   text-transform: uppercase;
 }
+
+@media screen and (max-width: 1920px) {
+    .quotes__author {
+        font-size: 23px;
+    }
+}
