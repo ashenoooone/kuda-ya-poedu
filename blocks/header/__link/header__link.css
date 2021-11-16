@@ -1,5 +1,10 @@
 .header__link {
     margin: 0 2.790697674418605vw 0 0;
+    transition: opacyti 0.2 linear;
+}
+
+.header__link:hover{
+    opacity: 45%;
 }
 
 .header__link:last-child {
