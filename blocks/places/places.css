@@ -2,7 +2,6 @@
   display: grid;
   grid-template: repeat(3, calc(125.0498338870432vw / 3)) / 50% 50%;
   width: 100%;
-  height: 125.0498338870432vw;
   box-sizing: border-box;
   background-color: #f2f2f2;
   grid-template-areas:
