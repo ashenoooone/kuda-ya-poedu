@@ -1,5 +1,4 @@
 .place__img {
   width: 100%;
-  background-size: cover;
-  grid-area: img;
+  height: 100%;
 }

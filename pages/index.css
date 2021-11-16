@@ -15,12 +15,19 @@
 @import url(../blocks/header/__img/header__img.css);
 /* places */
 @import url(../blocks/places/places.css);
+/* place */
 @import url(../blocks/place/place.css);
 @import url(../blocks/place/__img/place__img.css);
 @import url(../blocks/place/__article/place__article.css);
 @import url(../blocks/place/__paragraph/place__paragraph.css);
 @import url(../blocks/place/__title/place__title.css);
 @import url(../blocks/place/__text/place__text.css);
+@import url(../blocks/place/__article/_content/place__article_content_black-sea.css);
+@import url(../blocks/place/__article/_content/place__article_content_forest.css);
+@import url(../blocks/place/__article/_content/place__article_content_mountain.css);
+@import url(../blocks/place/__img/_content/place__img_content_black-sea.css);
+@import url(../blocks/place/__img/_content/place__img_content_forest.css);
+@import url(../blocks/place/__img/_content/place__img_content_mountain.css);
 /* footer */
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__title/footer__title.css);
