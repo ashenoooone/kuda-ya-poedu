@@ -15,3 +15,9 @@
     font-size: calc(26px + 12 * ((100vw - 1024px) / (1440 - 1024)));
   }
 }
+
+@media screen and (max-width: 1024px) {
+  .place__title {
+    
+  }
+}

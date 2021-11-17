@@ -21,3 +21,9 @@
     font-size: calc(14px + 2 * ((100vw - 1024px) / (1440 - 1024)));
   }
 }
+
+@media screen and (max-width: 1024px) {
+  .header__button {
+    
+  }
+}

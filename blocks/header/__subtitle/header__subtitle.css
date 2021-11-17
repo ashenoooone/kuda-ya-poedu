@@ -16,3 +16,9 @@
     font-size: calc(26px + 10 * ((100vw - 1024px) / (1440 - 1024)));
   }
 }
+
+@media screen and (max-width: 1024px) {
+  .header__subtitle {
+    
+  }
+}
