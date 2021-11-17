@@ -11,6 +11,10 @@
 }
 @media screen and (min-width: 1920px) {
   .places {
-    grid-template: repeat(3, calc(2400 / 3)) / 50% 50%;
+    grid-template: repeat(3, calc(2400px / 3)) / 50% 50%;
+    grid-template-areas:
+      "img_forest article_forest"
+      "article_mountain img_mountain"
+      "img_black-sea article_black-sea";
   }
 }
