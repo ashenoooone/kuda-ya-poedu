@@ -17,3 +17,5 @@
     font-size: calc(30px + 13 * ((100vw - 1024px) / (1440 - 1024)));
   }
 }
+@media screen and (max-width: 1024px) {
+}
