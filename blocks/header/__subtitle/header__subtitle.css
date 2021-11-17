@@ -19,6 +19,6 @@
 
 @media screen and (max-width: 1024px) {
   .header__subtitle {
-    
+    font-size: calc(19px + 7 * ((100vw - 768px) / (1024 - 768)));
   }
 }

@@ -3,7 +3,7 @@
   color: black;
   text-decoration: none;
   font-size: calc(16px + 4 * ((100vw - 1440px) / (1920 - 1440)));
-  transition: opacity 0.2 linear;
+  transition: opacity 0.2s linear;
 }
 
 .header__button:hover {
@@ -24,6 +24,5 @@
 
 @media screen and (max-width: 1024px) {
   .header__button {
-    
   }
 }
