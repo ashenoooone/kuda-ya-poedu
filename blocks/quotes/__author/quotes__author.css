@@ -5,7 +5,9 @@
 }
 
 @media screen and (min-width: 1920px) {
-    .quotes__author {
-        font-size: 23px;
-    }
+  .quotes__author {
+    font-size: 23px;
+  }
+}
+@media screen and (max-width: 1440px) {
 }

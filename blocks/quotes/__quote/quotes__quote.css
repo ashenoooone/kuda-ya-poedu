@@ -6,7 +6,9 @@
 }
 
 @media screen and (min-width: 1920px) {
-    .quotes__quote {
-        font-size: 20px;
-    }
+  .quotes__quote {
+    font-size: 20px;
+  }
+}
+@media screen and (max-width: 1440px) {
 }
