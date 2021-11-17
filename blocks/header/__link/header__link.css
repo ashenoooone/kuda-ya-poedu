@@ -1,9 +1,9 @@
 .header__link {
-    margin: 0 2.790697674418605vw 0 0;
-    color: black;
-    text-decoration: none;
-    font-size: calc(16px + 4 * ((100vw - 1440px) / (1920 - 1440)));
-    transition: opacity 0.2 linear;
+  margin: 0 2.790697674418605vw 0 0;
+  color: black;
+  text-decoration: none;
+  font-size: calc(16px + 4 * ((100vw - 1440px) / (1920 - 1440)));
+  transition: opacity 0.2 linear;
 }
 
 .header__link:hover {
@@ -20,9 +20,8 @@
   }
 }
 
-
 @media screen and (max-width: 1440px) {
   .header__link {
-    
+    font-size: calc(14px + 2 * ((100vw - 1024px) / (1440 - 1024)));
   }
 }

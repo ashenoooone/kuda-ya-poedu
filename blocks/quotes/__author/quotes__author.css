@@ -10,4 +10,7 @@
   }
 }
 @media screen and (max-width: 1440px) {
+  .quotes__author {
+    font-size: calc(13px + 5 * ((100vw - 1024) / (1440 - 1024)));
+  }
 }

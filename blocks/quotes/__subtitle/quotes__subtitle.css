@@ -13,4 +13,7 @@
   }
 }
 @media screen and (max-width: 1440px) {
+  .quotes__subtitle {
+    font-size: calc(30px + 13 * ((100vw - 1024) / (1440 - 1024)));
+  }
 }
