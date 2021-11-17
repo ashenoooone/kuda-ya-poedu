@@ -10,3 +10,10 @@
          width: 602px;
     }
 }
+
+
+@media screen and (max-width: 1440px) {
+  .header__subtitle {
+    
+  }
+}

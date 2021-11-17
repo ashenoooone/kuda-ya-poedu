@@ -14,3 +14,10 @@
       font-size: 18px;
     }
 }
+
+
+@media screen and (max-width: 1440px) {
+  .header__title {
+    
+  }
+}
