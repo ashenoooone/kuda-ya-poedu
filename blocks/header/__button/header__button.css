@@ -30,6 +30,6 @@
 
 @media screen and (max-width: 767px) {
   .header__button {
-    font-size: 12px;
+    font-size: calc(12px + 3 * ((100vw - 320px) / (768 - 320)));
   }
 }
