@@ -1,5 +1,6 @@
 .place__paragraph {
   margin: 0 0 1.993355481727575vw 0;
+  line-height: 1.5;
   font-size: calc(16px + 6 * ((100vw - 1440px) / (1920 - 1440)));
 }
 .place__paragraph:last-child {
