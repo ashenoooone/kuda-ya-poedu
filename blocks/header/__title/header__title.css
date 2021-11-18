@@ -20,8 +20,3 @@
     font-size: calc(13px + 1 * ((100vw - 1024px) / (1440 - 1024)));
   }
 }
-
-@media screen and (max-width: 1023px) {
-  .header__title {
-  }
-}
