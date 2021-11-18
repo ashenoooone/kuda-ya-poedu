@@ -17,7 +17,13 @@
 }
 @media screen and (max-width: 1023px) {
   .quotes__quote {
-    font-size: 13px;
-    text-align: center;
+    font-size: calc(15px - 2 * ((100vw - 320px) / (768 - 320)));
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .quotes__quote {
+    font-size: 4.6875vw;
+    text-align: right;
   }
 }

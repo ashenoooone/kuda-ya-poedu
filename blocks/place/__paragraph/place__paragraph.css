@@ -22,3 +22,9 @@
     font-size: 14.5px;
   }
 }
+
+@media screen and (max-width: 767px) {
+  .place__paragraph {
+    font-size: 4.53125vw;
+  }
+}

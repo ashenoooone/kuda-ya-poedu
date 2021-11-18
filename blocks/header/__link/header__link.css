@@ -33,6 +33,6 @@
 }
 @media screen and (max-width: 767px) {
   .header__link {
-    font-size: calc(12px + 3 * ((100vw - 320px) / (768 - 320)));
+    font-size: 3.75vw;
   }
 }

@@ -26,6 +26,8 @@
 @media screen and (max-width: 767px) {
   .quotes__subtitle {
     width: 100%;
-    text-align: center;
+    text-align: left;
+    /* font-size: calc(25px + 10 * ((100vw - 320px) / (768 - 320))); */
+    font-size: 7.8125vw;
   }
 }

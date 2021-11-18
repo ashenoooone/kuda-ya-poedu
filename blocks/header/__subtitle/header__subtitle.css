@@ -27,6 +27,7 @@
   .header__subtitle {
     font-size: 20px;
     width: 100%;
-    font-size: calc(20px + 8 * ((100vw - 320px) / (768 - 320)));
+    /* font-size: calc(20px + 8 * ((100vw - 320px) / (768 - 320))); */
+    font-size: 6.25vw;
   }
 }

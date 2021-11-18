@@ -22,3 +22,9 @@
     margin: 0 0 5.338541666666667vw 0;
   }
 }
+
+@media screen and (max-width: 767px) {
+  .place__title {
+    font-size: 6.875vw;
+  }
+}
