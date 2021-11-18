@@ -1,3 +1,9 @@
 .place__img_content_black-sea {
   grid-area: img_black-sea;
 }
+
+@media screen and (max-width: 767px) {
+  .place__img_content_forest {
+    grid-area: img_forest;
+  }
+}
