@@ -13,6 +13,6 @@
 @media screen and (max-width: 1023px) {
   .place__article {
     justify-content: start;
-    padding: 2.3156146179401986vw 0 4.777408637873754vw 4.514950166112957vw;
+    padding: 2.3156146179401986vw 3.125vw 4.777408637873754vw;
   }
 }

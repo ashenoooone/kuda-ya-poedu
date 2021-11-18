@@ -17,6 +17,6 @@
 
 @media screen and (max-width: 767px) {
   .place__text {
-    width: 90vw;
+    width: 100%;
   }
 }

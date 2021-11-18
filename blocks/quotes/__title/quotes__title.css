@@ -16,7 +16,9 @@
     font-size: calc(13px + 1 * ((100vw - 1024px) / (1440 - 1024)));
   }
 }
-@media screen and(max-width:768px) {
+@media screen and (max-width: 767px) {
   .quotes__title {
+    text-align: center;
+    font-size: 40px;
   }
 }
