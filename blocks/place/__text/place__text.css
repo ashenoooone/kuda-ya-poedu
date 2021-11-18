@@ -11,6 +11,12 @@
 
 @media screen and (max-width: 1023px) {
   .place__text {
+    width: 40vw;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .place__text {
     width: 90vw;
   }
 }
