@@ -28,6 +28,6 @@
 
 @media screen and (max-width: 1023px) {
   .header__link {
-    font-size: calc(14px + 2 * ((100vw - 1024px) / (1440 - 1024)));
+    font-size: 15px
   }
 }

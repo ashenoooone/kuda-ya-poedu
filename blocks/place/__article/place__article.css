@@ -9,3 +9,10 @@
     padding: 102px 0 130px 105px;
   }
 }
+
+@media screen and (max-width: 1023px) {
+  .place__article {
+    justify-content: start;
+    padding: 2.3156146179401986vw 0 4.777408637873754vw 4.514950166112957vw;
+  }
+}
