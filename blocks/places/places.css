@@ -18,3 +18,16 @@
       "img_black-sea article_black-sea";
   }
 }
+
+@media screen and (max-width: 767px) {
+  .places {
+    grid-template: 100vw auto 100vw auto 100vw auto/ 100%;
+    grid-template-areas:
+    "img_forest"
+    "article_forest"
+    "img_mountain"
+    "article_mountain"
+    "img_black-sea"
+    "article_black-sea";
+  }
+}
