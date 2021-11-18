@@ -23,3 +23,9 @@
     width: 61vw;
   }
 }
+@media screen and (max-width: 767px) {
+  .header__subtitle {
+    font-size: 20px;
+    width: 100%;
+  }
+}

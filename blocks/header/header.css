@@ -2,6 +2,7 @@
   display: flex;
   flex-direction: column;
   position: relative;
+  box-sizing: border-box;
   padding: 4.053156146179402vw 5.315614617940199vw 19.33554817275748vw;
 }
 @media screen and (min-width: 1920px) {
@@ -12,7 +13,7 @@
 
 @media screen and (max-width: 767px) {
   .header {
-    padding: 15px 5px;
+    padding: 4.0625vw 3.125vw;
     width: 100%;
   }
 }
