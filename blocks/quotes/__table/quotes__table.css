@@ -8,8 +8,13 @@
 }
 
 @media screen and (min-width: 1920px) {
-  .quotes__table{
+  .quotes__table {
     grid-template-columns: 354px 352px 353px 332px;
     column-gap: 97px;
+  }
+}
+@media screen and (max-width: 1023px) {
+  .quotes__table {
+    grid-template-columns: 18.47176079734219vw 18.33887043189369vw 24.40531561461794vw 17.3421926910299vw;
   }
 }

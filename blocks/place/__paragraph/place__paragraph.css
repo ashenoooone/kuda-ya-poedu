@@ -11,13 +11,13 @@
     margin: 0 0 38px 0;
   }
 }
-@media screen and (max-width: 1440px) {
+@media screen and (max-width: 1439px) {
   .place__paragraph {
     font-size: calc(12.5px + 3.5 * ((100vw - 1024px) / (1440 - 1024)));
   }
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1023px) {
   .place__paragraph {
     font-size: calc(11px + 1.5 * ((100vw - 768px) / (1024 - 768)));
   }

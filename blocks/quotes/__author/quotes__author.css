@@ -9,13 +9,13 @@
     font-size: 23px;
   }
 }
-@media screen and (max-width: 1440px) {
+@media screen and (max-width: 1439px) {
   .quotes__author {
     font-size: calc(13px + 5 * ((100vw - 1024px) / (1440 - 1024)));
   }
 }
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1023px) {
   .quotes__author {
-    font-size: calc(9px + 9 * ((100vw - 768px) / (1024 - 768)));
+    font-size: 13px;
   }
 }

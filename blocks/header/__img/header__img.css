@@ -13,7 +13,7 @@
     right: 236px;
   }
 }
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1023px) {
   .header__img {
     right: 5.315614617940199vw;
   }
