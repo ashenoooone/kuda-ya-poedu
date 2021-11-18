@@ -18,3 +18,10 @@
     grid-template-columns: 18.47176079734219vw 18.33887043189369vw 24.40531561461794vw 17.3421926910299vw;
   }
 }
+@media screen and (max-width: 767px) {
+  .quotes__table {
+    grid-template-columns: 100%;
+    grid-template-rows: repeat(4, 1fr);
+    row-gap: 6.25vw;
+  }
+}
